@@ -1,3 +1,3 @@
 # edclone
 
-Basicaly ed but newer and worse
+Basically ed but newer and worse
